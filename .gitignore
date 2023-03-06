@@ -1,0 +1,27 @@
+# cache
+.pytest_cache
+.pytest_cache/*
+__pycache__/
+
+# idea
+.idea
+.idea/
+.idea/*
+
+# report
+report*/*
+*generator_requests.log
+*.log
+*.allure_report
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#My files
+allure/
